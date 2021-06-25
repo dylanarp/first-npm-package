@@ -1,0 +1,14 @@
+{
+  "name": "@dylanarp/first-npm-package",
+  "version": "1.0.0",
+  "description": "Simple function to say hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dylanarp"
+  ],
+  "author": "Dylan Phillips",
+  "license": "ISC"
+}
